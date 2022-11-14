@@ -1,1 +1,1 @@
-https://au-syd.assistant.watson.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Aconversation%3Aau-syd%3Aa%2F6a1420812326448e9363c6481f1dfd77%3A0cd3bfae-dfa5-450e-a2b5-f636516c4691%3A%3A/assistants/f35d0ae6-788a-4dd9-ac73-6959b58712b9/integrations
+https://au-syd.assistant.watson.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Aconversation%3Aau-syd%3Aa%2F6a1420812326448e9363c6481f1dfd77%3A0cd3bfae-dfa5-450e-a2b5-f636516c4691%3A%3A/assistants/f35d0ae6-788a-4dd9-ac73-6959b58712b9/preview
